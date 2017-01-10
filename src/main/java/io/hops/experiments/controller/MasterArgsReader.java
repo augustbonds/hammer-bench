@@ -29,7 +29,6 @@ import java.util.*;
 
 import io.hops.experiments.coin.MultiFaceCoin;
 import io.hops.experiments.benchmarks.common.BenchmarkType;
-import sun.security.krb5.Config;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
